@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   // Replace with your website URL (required for sitemap generation)
-  site: 'https://github.com/infraestructura-it/presentacion',
+  site: 'https://github.io/infraestructura-it/presentacion',
 
   // URL configuration
   trailingSlash: 'never', // Removes trailing slashes from URLs
